@@ -1,4 +1,4 @@
 enqueu.me
 =========
 
-A Job Queue for Humans
+“Do or do not… there is no try.”
